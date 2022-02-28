@@ -1,12 +1,8 @@
 # Étterem-project
-
-## Készítette:
-* Boros Dávid
-* Farmasi Attila
-* Katona Benjámin
-* Reményi Olivér
-* Szögi Bence
-* Vancskó Mihály
+*Felhasználó kezelés
+*Rendelés felvétel
+*Menükezelés
+*Számla kezelés
 
 ## Project-ről
 * alapkoncepció: felhasználó-barát webes alkalmazás
