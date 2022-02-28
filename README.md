@@ -1,6 +1,23 @@
-# Éttermi alkalmazás felszolgálóknak!
-A projekt célja egy felszolgálók által használt éttermi alkalmazás lefejlesztése volt.
-A projektben felhasználó, menü,étel illetve ital és számla kezelést lehet lebonyolítani.
+# Étterem-project
 
-# A program legyegyszerűbben h2 vel futtatható  a http://localhost:8085/ linken!
+## Készítette:
+* Boros Dávid
+* Farmasi Attila
+* Katona Benjámin
+* Reményi Olivér
+* Szögi Bence
+* Vancskó Mihály
 
+## Project-ről
+* alapkoncepció: felhasználó-barát webes alkalmazás
+* csapatból hárman is a vendéglátásban dolgoztak az elmúlt 10 évben
+* tapasztalataink alapján szükség van egy könnyen kezelhető és átlátható, felszolgáló-barát éttermi alkalmazásra
+
+## Jövőbeni tervek
+* napi kimutatások készítése
+* asztaltérkép dinamikussá tétele
+* készletgazdálkodás
+
+## Tipp
+* belépéskor a jelszó megegyezik a felhasználónévvel ;)
+* üzenet/komment funkció megjelenése: a termék nevére kattintva a termék rendeléshez adása után
